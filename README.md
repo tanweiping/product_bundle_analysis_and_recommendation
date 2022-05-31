@@ -1,5 +1,5 @@
 # Product Bundle Analysis and Recommendation
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCross-industry_standard_process_for_data_mining&psig=AOvVaw1vVj0ZyU1sL-x0GH5kj8VV&ust=1654062919286000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiRo9eGifgCFQAAAAAdAAAAABAD
+![alt text](crisp_dm.png)
 ## Introduction
 Product Bundle Analysis & Recommendation (PBAR) will be following the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, which provides a structured approach to planning a data mining project. CRISP-DM outlines a 6-phase iterative framework which are namely – Business Understanding, Data Understanding/Exploration, Data Preparation, Modelling, Evaluation, and Deployment. 
 
