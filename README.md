@@ -30,6 +30,8 @@ To create this recommendation system, there are 3 key milestones that are comple
 * **Purpose:** The main usage of this dashboard tool will be to facilitate the RMs on the product recommendation based on the client’s profile and existing products. 
 
 ## Author
-
-- [@weiping](https://github.com/tanweiping)
+🙋‍♀️ Wei Ping<br />
+✉️ weiping.tan.2020@scis.smu.edu.sg <br />
+🇮🇳  https://www.linkedin.com/in/tan-wei-ping-81013118b/ <br />
+Git [@weiping](https://github.com/tanweiping) <br />
 
